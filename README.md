@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jmartinez3421
 - 👀 I’m interested in learning new technologies and improve the ones that i alredy know.
 - 🌱 I’m currently learning Angular, Node-Express-Mongoose, and advanced CSS-SASS
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can contact with me trought my LinkedIn (www.linkedin.com/in/jordi-martínez-grau-813934215) or trought my email (jmartinezg.fp@gmail.com)
 
 <!---
